@@ -2,12 +2,12 @@
   "project_info": {
     "project_number": "620678313557",
     "project_id": "swipevideo-2005b",
-    "storage_bucket": "swipevideo-2005b.appspot.com"
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:620678313557:android:97f165daa2548b82c246dc",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.swipevideo"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDckWulf5_nEzVZDNAeZAeis18CZNh9oWU"
+          "current_key": ""
         }
       ],
       "services": {
